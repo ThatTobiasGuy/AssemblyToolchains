@@ -7,7 +7,8 @@ Benjamin Day
 Gurkirat Singh  
 Hasan Al-Taie  
 Kanwarveerpratap Singh  
-Monik Narshibhai Nakrani  
+Monik Narshibhai Nakrani
+Nathan Tobias
 Lubos Kuzma (https://www.linkedin.com/in/lubos-kuzma-0719a586)  
 Saiban Muhammad  
 
